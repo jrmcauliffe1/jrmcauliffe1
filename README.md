@@ -2,7 +2,7 @@
 
 - 🚀 I’m currently working at [Axle Informatics](https://axleinfo.com/) as a Data Engineer
 
-- 🔭 I'm exploring [LLMs](https://www.nvidia.com/en-us/glossary/large-language-models/), [automation](https://www.sap.com/products/technology-platform/process-automation/what-is-process-automation.html#:~:text=Process%20automation%20definition-,Process%20automation%20is%20defined%20as%20the%20use%20of%20software%20and,employee%2C%20or%20providing%20customer%20service.), [wordpress](https://tipstricksandimmortaljellyfish.wordpress.com/) and [chatgpt API](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) here on my private GitHub
+- 🔭 I'm exploring [LLMs](https://www.nvidia.com/en-us/glossary/large-language-models/), [automation](https://www.sap.com/products/technology-platform/process-automation/what-is-process-automation.html#:~:text=Process%20automation%20definition-,Process%20automation%20is%20defined%20as%20the%20use%20of%20software%20and,employee%2C%20or%20providing%20customer%20service.), web development and [LLMs](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) here on my private GitHub
 
 <!--
 **jrmcauliffe1/jrmcauliffe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
